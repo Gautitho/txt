@@ -16,7 +16,7 @@ Je n'ai pas tout testé dans le jeu donc il y a forcément des trous.
 |-|-|-|
 | Argolio | Le compagnon peut être sorti tour 1 safe et est très difficile à clean pour certaines classes | PV : 50 <br> Dégâts des mires : 9 |
 | Chaille | Le compagnon me semble vraiment trop puissant (en Kokoro particulièrement) <br> même si il a une petite attaque, il est pratiquement intuable | Passif : 6 Armure par jauge |
-| Kerubim | Le compagnon me semble vraiment trop puissant (en Kokoro particulièrement) <br> si il est un peu protégé il est intuable, il est pratiquement intuable | Attaque : 22 |
+| Kerubim | Le compagnon me semble vraiment trop puissant (en Kokoro particulièrement) <br> si il est un peu protégé il est intuable, il est pratiquement intuable | Attaque : 28 |
 | Flecheur | Le compagnon peut être sorti tour 1 safe et est très difficile à clean pour certaines classes | PV : 50 <br> Dégâts des mires : 10 |
 | Yugo | Le compagnon a un body très faible par rapport aux compagnons comparables et son passif, très situationnel, ne compense pas | Attaque : 35 |
 
