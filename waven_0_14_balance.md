@@ -6,13 +6,18 @@ Je n'ai pas tout testé dans le jeu donc il y a forcément des trous.
 ## Général
 
 * L'archétype aggro me semble extrèmement dominant.
+* Le mot clé REBOND est inutile en PvP.
 
 ## Compagnons
 
+* Quilby et Oropo sont les compagnons tri élement les plus intéressant et sont sur les même jeuges, c'est vraiment dommage. (Et il y a aussi Suzy sur ces jauges)
+
 | Nom | Commentaire | Proposition d'ajustement |
 |-|-|-|
+| Argolio | Le compagnon peut être sorti tour 1 safe et est très difficile à clean pour certaines classes | PV : 50 <br> Dégâts des mires : 9 |
 | Chaille | Le compagnon me semble vraiment trop puissant (en Kokoro particulièrement) <br> même si il a une petite attaque, il est pratiquement intuable | Passif : 6 Armure par jauge |
 | Kerubim | Le compagnon me semble vraiment trop puissant (en Kokoro particulièrement) <br> si il est un peu protégé il est intuable, il est pratiquement intuable | Attaque : 22 |
+| Flecheur | Le compagnon peut être sorti tour 1 safe et est très difficile à clean pour certaines classes | PV : 50 <br> Dégâts des mires : 10 |
 | Yugo | Le compagnon a un body très faible par rapport aux compagnons comparables et son passif, très situationnel, ne compense pas | Attaque : 35 |
 
 ## Cra
@@ -28,7 +33,7 @@ Je n'ai pas tout testé dans le jeu donc il y a forcément des trous.
 
 | Nom | Commentaire | Proposition d'ajustement |
 |-|-|-|
-|  |  |  |
+| Pointe répulsive | Je pense que l'effet "Revient dans votre main" est mal évalué | Dégâts : 8 |
 
 ## Xelor
 
@@ -56,19 +61,16 @@ Je n'ai pas tout testé dans le jeu donc il y a forcément des trous.
 |-|-|-|
 | Gemme déphasante | Eniripsa profite déja d'un très gros kit de classe, un énorme body en plus, ça fait beaucoup | Attaque : 15 |
 | Voracius | Eniripsa profite déja d'un très gros kit de classe, un énorme body en plus, ça fait beaucoup | Attaque : 28 |
+| Kokoro | Eniripsa profite déja d'un très gros kit de classe, un énorme body en plus, ça fait beaucoup | Attaque : 26 |
 
 ### Sorts
-
-* Les sorts d'accélération de jauge sont très forts par nature et j'ai l'impression que leur dégâts ne tiennent pas bien compte du bonus qu'apporte la jauge générée.
 
 | Nom | Commentaire | Proposition d'ajustement |
 |-|-|-|
 | Frappe du pinceau | 1 PA pour une jauge éther est beaucoup trop fort, ça permet 3 jauges très facilement surtout en Eniripsa <br> L'effet du sort est très fort avec certains compagnons actuels mais je pense que ce sont les compagnons qu'il faut retravailler | Coût : 3 PA |
+| Cure corrosive (et compagnie) | La génération de jauge est très forte, je pense que le sort met un peu trop de dégâts | Dégâts : 20 |
+| Même pas mort | Pas très jouable dans la méta actuelle mais je pense que le sort ne devrait pas donner de jauge | Jauge éther : 0 |
 
 ## Sram
 
-### Sorts
-
-| Nom | Commentaire | Proposition d'ajustement |
-|-|-|-|
-|  |  |  |
+Rien à ajouter
